@@ -1,0 +1,15 @@
+C:\Users\MuhammadZafran\Desktop\rekursi\bin\Debug\net7.0\rekursi.exe
+C:\Users\MuhammadZafran\Desktop\rekursi\bin\Debug\net7.0\rekursi.deps.json
+C:\Users\MuhammadZafran\Desktop\rekursi\bin\Debug\net7.0\rekursi.runtimeconfig.json
+C:\Users\MuhammadZafran\Desktop\rekursi\bin\Debug\net7.0\rekursi.dll
+C:\Users\MuhammadZafran\Desktop\rekursi\bin\Debug\net7.0\rekursi.pdb
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.csproj.AssemblyReference.cache
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.AssemblyInfoInputs.cache
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.AssemblyInfo.cs
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.csproj.CoreCompileInputs.cache
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.dll
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\refint\rekursi.dll
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.pdb
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\rekursi.genruntimeconfig.cache
+C:\Users\MuhammadZafran\Desktop\rekursi\obj\Debug\net7.0\ref\rekursi.dll
